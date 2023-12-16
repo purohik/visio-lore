@@ -2,7 +2,7 @@
 
 ### If setting up for the first time, also setup venv
 ```
-pip3 venv <virtualenv>
+python3 -m venv <virtualenv>
 ```
 
 then activate it
