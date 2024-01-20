@@ -1,4 +1,4 @@
-# oculus
+# visio-lore
 
 ### If setting up for the first time, also setup venv
 ```
